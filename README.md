@@ -69,3 +69,4 @@ Ou depuis une session admin, appeler la fonction RPC `admin_vote_results`.
 - La séparation identité/bulletin réduit le lien direct entre étudiant et choix, mais ne garantit pas un anonymat cryptographique complet : les journaux, horaires et accès administrateur peuvent créer des corrélations.
 - Faites un test avec des comptes fictifs et quelques votes d'essai avant l'ouverture officielle.
 - Pour un scrutin sensible, faites auditer la sécurité et adoptez une solution de vote adaptée/certifiée.
+# L3-VOTE
