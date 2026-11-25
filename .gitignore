@@ -1,0 +1,27 @@
+# Dépendances
+node_modules/
+
+# Build
+dist/
+
+# Variables d'environnement (garder uniquement l'exemple)
+.env
+.env.*
+!.env.example
+
+# Supabase local
+supabase/.temp/
+supabase/.branches/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
